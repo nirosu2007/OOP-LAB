@@ -1,0 +1,2 @@
+This task is a Positive Number Collector:
+                                        This program collect numbers from user until they enter "0" and skip if any negative numbers are given as input and returns the sum of all positive numbers.
